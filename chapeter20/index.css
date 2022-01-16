@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #ff562e;
+  font-size: 3em;
+}

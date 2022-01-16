@@ -6,6 +6,11 @@
 /chapeter12/target
 /chapeter12/Cargo.lock
 
+
+# chapeter12
+/chapeter20/target
+/chapeter20/Cargo.lock
+
 #exercism
 /exercism/target
 /exercism/Cargo.lock
